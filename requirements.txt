@@ -16,3 +16,4 @@ Werkzeug==2.1.2
 WTForms==3.0.1
 gunicorn==20.1.0  # Voeg gunicorn toe
 mysqlclient==2.1.0  # Voeg mysqlclient toe
+python-dotenv==0.20.0
